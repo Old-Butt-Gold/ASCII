@@ -1,0 +1,14 @@
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\ASCII.exe
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\ASCII.deps.json
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\ASCII.runtimeconfig.json
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\ASCII.dll
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\ASCII.pdb
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.AssemblyInfoInputs.cache
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.AssemblyInfo.cs
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.dll
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\refint\ASCII.dll
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.pdb
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ASCII.genruntimeconfig.cache
+C:\Users\andre\RiderProjects\ASCII\ASCII\obj\Release\net7.0-windows\win-x64\ref\ASCII.dll

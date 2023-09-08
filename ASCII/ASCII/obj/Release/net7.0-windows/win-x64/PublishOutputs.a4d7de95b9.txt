@@ -1,0 +1,5 @@
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\publish\ASCII.exe
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\publish\ASCII.dll
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\publish\ASCII.deps.json
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\publish\ASCII.runtimeconfig.json
+C:\Users\andre\RiderProjects\ASCII\ASCII\bin\Release\net7.0-windows\win-x64\publish\ASCII.pdb
